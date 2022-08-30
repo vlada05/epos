@@ -1,0 +1,24 @@
+[14/Feb/2021:13:34:31] (ℹ️): WordPress Instance Info:
+[14/Feb/2021:13:34:31] (ℹ️): Home URL : http://localhost/epos3
+[14/Feb/2021:13:34:31] (ℹ️): Site URL : http://localhost/epos3
+[14/Feb/2021:13:34:31] (ℹ️): WordPress Version : 5.6.1
+[14/Feb/2021:13:34:31] (ℹ️): Onboarding Version : 1.7.10
+[14/Feb/2021:13:34:31] (ℹ️): Multisite : No
+[14/Feb/2021:13:34:31] (ℹ️): Server Info : Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.2.33
+[14/Feb/2021:13:34:31] (ℹ️): PHP Version : 7.2.33
+[14/Feb/2021:13:34:31] (ℹ️): HTTPS : No
+[14/Feb/2021:13:34:31] (ℹ️): PHP Max Execution Time : 120
+[14/Feb/2021:13:34:31] (ℹ️): PHP Max Input Vars : 1000
+[14/Feb/2021:13:34:31] (ℹ️): Max Upload Size : 134217728
+[14/Feb/2021:13:34:31] (ℹ️): Plugins:
+[14/Feb/2021:13:34:31] (ℹ️): [PLUGIN] Classic Editor : v1.6 (WordPress Contributors)
+[14/Feb/2021:13:34:31] (ℹ️): [PLUGIN] Envira Gallery Lite : v1.8.3.3 (Envira Gallery Team)
+[14/Feb/2021:13:34:31] (ℹ️): [PLUGIN] Google Analytics for WordPress by MonsterInsights : v7.14.0 (MonsterInsights)
+[14/Feb/2021:13:34:31] (ℹ️): [PLUGIN] Jetpack by WordPress.com : v9.2.1 (Automattic)
+[14/Feb/2021:13:34:31] (ℹ️): [PLUGIN] Max upload size : v2.0 (Ziscom)
+[14/Feb/2021:13:34:31] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.10.3 (Themeisle)
+[14/Feb/2021:13:34:31] (ℹ️): [PLUGIN] Social Media and Share Icons (Ultimate Social Media) : v2.6.2 (UltimatelySocial)
+[14/Feb/2021:13:34:31] (ℹ️): [PLUGIN] WooCommerce : v4.8.0 (Automattic)
+[14/Feb/2021:13:34:31] (ℹ️): [PLUGIN] Yoast SEO : v15.5 (Team Yoast)
+[14/Feb/2021:13:34:31] (ℹ️): [PLUGIN] WP Google Maps : v8.1.1 (WP Google Maps)
+[14/Feb/2021:13:34:31] (ℹ️): [PLUGIN] WPForms Lite : v1.6.4.1 (WPForms)
